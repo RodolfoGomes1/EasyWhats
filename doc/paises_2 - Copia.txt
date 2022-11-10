@@ -1,0 +1,239 @@
+
+País	Codigo ISO	DDI do País
+Afghanistão	AF / AFG 	93 
+África do Sul	ZA / ZAF 	27 
+Albânia	AL / ALB 	355 
+Alemanha	DE / DEU 	49 
+Andora	AD / AND 	376 
+Angola	AO / AGO 	244 
+Anguilla	AI / AIA 	1 264 
+Antarctica	AQ / ATA 	672 
+Antígua e Barbuda	AG / ATG 	1 268 
+Argentina	AR / ARG 	54 
+Argélia	DZ / DZA 	213 
+Arménia	AM / ARM 	374 
+Aruba	AW / ABW 	297 
+Arábia Saudita	SA / SAU 	966 
+Austrália	AU / AUS 	61 
+Áustria	AT / AUT 	43 
+Azerbaijão	AZ / AZE 	994 
+Bahamas	BS / BHS 	1 242 
+Bahrein	BH / BHR 	973 
+Bangladesh	BD / BGD 	880 
+Barbados	BB / BRB 	1 246 
+Bélgica	BE / BEL 	32 
+Belize	BZ / BLZ 	501 
+Benim	BJ / BEN 	229 
+Bermuda	BM / BMU 	1 441 
+Butão	BT / BTN 	975 
+Bielorrússia	BY / BLR 	375 
+Bolívia	BO / BOL 	591 
+Bósnia e Herzegovina	BA / BIH 	387 
+Botswana	BW / BWA 	267 
+Brasil	BR / BRA 	55 
+British Indian Ocean Territory	IO / IOT 	 
+Brunei	BN / BRN 	673 
+Bulgária	BG / BGR 	359 
+Burkina Faso	BF / BFA 	226 
+Myanmar (Burma)	MM / MMR 	95 
+Burundi	BI / BDI 	257 
+Camarões	CM / CMR 	237 
+Cabo Verde	CV / CPV 	238 
+Camboja	KH / KHM 	855 
+Canadá	CA / CAN 	1 
+Catar	QA / QAT 	974 
+Chad	TD / TCD 	235 
+Chile	CL / CHL 	56 
+China	CN / CHN 	86 
+Chipre	CY / CYP 	357 
+Christmas Island	CX / CXR 	61 
+Cingapura	SG / SGP 	65 
+Colômbia	CO / COL 	57 
+Comores	KM / COM 	269 
+Coreia do Norte	KP / PRK 	850 
+Coreia do Sul	KR / KOR 	82 
+Costa do Marfim	CI / CIV 	225 
+Costa Rica	CR / CRC 	506 
+Croácia	HR / HRV 	385 
+Cuba	CU / CUB 	53 
+Dinamarca	DK / DNK 	45 
+Djibouti	DJ / DJI 	253 
+Dominica	DM / DMA 	1 767 
+Egito	EG / EGY 	20 
+El Salvador	SV / SLV 	503 
+Emirados Árabes Unidos	AE / ARE 	971 
+Equador	EC / ECU 	593 
+Eritreia	ER / ERI 	291 
+Estónia	EE / EST 	372 
+Espanha	ES / ESP 	34 
+Etiópia	ET / ETH 	251 
+Fiji	FJ / FJI 	679 
+Finlândia	FI / FIN 	358 
+França	FR / FRA 	33 
+Gabão	GA / GAB 	241 
+Gâmbia	GM / GMB 	220 
+Banda de Gaza (Palestina)	/  	970 
+Geórgia	GE / GEO 	995 
+Gana	GH / GHA 	233 
+Gibraltar	GI / GIB 	350 
+Grécia	GR / GRC 	30 
+Groelândia	GL / GRL 	299 
+Granada	GD / GRD 	1 473 
+Guam	GU / GUM 	1 671 
+Guatemala	GT / GTM 	502 
+Guiana	GY / GUY 	592 
+Guiné	GN / GIN 	224 
+Guiné Equatorial	GQ / GNQ 	240 
+Guiné-Bissau	GW / GNB 	245 
+Haiti	HT / HTI 	509 
+Honduras	HN / HND 	504 
+Hong Kong	HK / HKG 	852 
+Hungria	HU / HUN 	36 
+Islândia	IS / IS 	354 
+Ilhas Cayman	KY / CYM 	1 345 
+Ilhas Cocos (Keeling)	CC / CCK 	61 
+Ilha de Man	IM / IMN 	44 
+Ilhas Cook	CK / COK 	682 
+Ilhas Falkland (Malvinas)	FK / FLK 	500 
+Ilhas Feroé	FO / FRO 	298 
+Ilhas Mariana do Norte	MP / MNP 	1 670 
+Ilhas Marshall	MH / MHL 	692 
+Ilhas Norfolk	/ NFK 	672 
+Ilhas Pitcairn	PN / PCN 	870 
+Ilhas Salomão	SB / SLB 	677 
+Ilhas Turcas e Caicos	TC / TCA 	1 649 
+Ilhas Virgens Americanas	VI / VIR 	1 340 
+Ilhas Virgens Britânicas	VG / VGB 	1 284 
+India	IN / IND 	91 
+Indonésia	ID / IDN 	62 
+Inglaterra (Reino Unido)	GB / GBR 	44 
+Irã	IR / IRN 	98 
+Iraque	IQ / IRQ 	964 
+Irlanda	IE / IRL 	353 
+Israel	IL / ISR 	972 
+Itália	IT / ITA 	39 
+Jamaica	JM / JAM 	1 876 
+Japão	JP / JPN 	81 
+Jersey	JE / JEY 	 
+Jordânia	JO / JOR 	962 
+Cazaquistão	KZ / KAZ 	7 
+Quénia (Kenya)	KE / KEN 	254 
+Kiribati	KI / KIR 	686 
+Kosovo	/  	381 
+Kuwait	KW / KWT 	965 
+Quirguistão	KG / KGZ 	996 
+Laos	LA / LAO 	856 
+Letônia	LV / LVA 	371 
+Líbano	LB / LBN 	961 
+Lesoto	LS / LSO 	266 
+Libéria	LR / LBR 	231 
+Líbia	LY / LBY 	218 
+Liechtenstein	LI / LIE 	423 
+Lituânia	LT / LTU 	370 
+Luxemburgo	LU / LUX 	352 
+Macau	MO / MAC 	853 
+Macedónia	MK / MKD 	389 
+Madagáscar	MG / MDG 	261 
+Malawi	MW / MWI 	265 
+Malásia	MY / MYS 	60 
+Maldivas	MV / MDV 	960 
+Mali	ML / MLI 	223 
+Malta	MT / MLT 	356 
+Mauritânia	MR / MRT 	222 
+Maurícia	MU / MUS 	230 
+Mayotte	YT / MYT 	262 
+México	MX / MEX 	52 
+Micronésia	FM / FSM 	691 
+Moldávia	MD / MDA 	373 
+Monaco	MC / MCO 	377 
+Mongólia	MN / MNG 	976 
+Montenegro	ME / MNE 	382 
+Montserrat	MS / MSR 	1 664 
+Marrocos	MA / MAR 	212 
+Moçambique	MZ / MOZ 	258 
+Namíbia	NA / NAM 	264 
+Nauru	NR / NRU 	674 
+Nepal	NP / NPL 	977 
+Netherlands Antilles	AN / ANT 	599 
+Nova Caledônia	NC / NCL 	687 
+Nova Zelândia	NZ / NZL 	64 
+Nicaragua	NI / NIC 	505 
+Níger	NE / NER 	227 
+Nigéria	NG / NGA 	234 
+Niue	NU / NIU 	683 
+Noruega	NO / NOR 	47 
+Omã	OM / OMN 	968 
+Países Baixos	NL / NLD 	31 
+Paquistão	PK / PAK 	92 
+Palau	PW / PLW 	680 
+Panamá	PA / PAN 	507 
+Papua-Nova Guiné	PG / PNG 	675 
+Paraguai	PY / PRY 	595 
+Peru	PE / PER 	51 
+Filipinas	PH / PHL 	63 
+Polónia	PL / POL 	48 
+Polinésia Francesa	PF / PYF 	689 
+Portugal	PT / PRT 	351 
+Porto Rico	PR / PRI 	1 
+República do Congo	CG / COG 	242 
+República Democrática do Congo	CD / COD 	243 
+República Centro-Africana	CF / CAF 	236 
+República Checa	CZ / CZE 	420 
+República Dominicana	DO / DOM 	1 809 
+Roménia	RO / ROU 	40 
+Ruanda	RW / RWA 	250 
+Rússia	RU / RUS 	7 
+Saint Barthelemy	BL / BLM 	590 
+Samoa	WS / WSM 	685 
+Samoa Americana	AS / ASM 	1 684 
+San Marino	SM / SMR 	378 
+Sao Tome e Principe	ST / STP 	239 
+Senegal	SN / SEN 	221 
+Serbia	RS / SRB 	381 
+Serra Leoa	SL / SLE 	232 
+Seychelles	SC / SYC 	248 
+Slovakia	SK / SVK 	421 
+Slovenia	SI / SVN 	386 
+Somalia	SO / SOM 	252 
+Sri Lanka	LK / LKA 	94 
+Saint Helena	SH / SHN 	290 
+Saint Kitts and Nevis	KN / KNA 	1 869 
+Saint Lucia	LC / LCA 	1 758 
+Saint Martin	MF / MAF 	1 599 
+Saint Pierre and Miquelon	PM / SPM 	508 
+Saint Vincent and the Grenadines	VC / VCT 	1 784 
+Sudão	SD / SDN 	249 
+Suriname	SR / SUR 	597 
+Svalbard	SJ / SJM 	 
+Suazilândia	SZ / SWZ 	268 
+Suécia	SE / SWE 	46 
+Suiça	CH / CHE 	41 
+Syria	SY / SYR 	963 
+Taiwan	TW / TWN 	886 
+Tajiquistão	TJ / TJK 	992 
+Tanzânia	TZ / TZA 	255 
+Timor-Leste	TL / TLS 	670 
+Tailândia	TH / THA 	66 
+Togo	TG / TGO 	228 
+Tokelau	TK / TKL 	690 
+Tonga	TO / TON 	676 
+Trinidad e Tobago	TT / TTO 	1 868 
+Tunísia	TN / TUN 	216 
+Turquemenistão	TM / TKM 	993 
+Turquia	TR / TUR 	90 
+Tuvalu	TV / TUV 	688 
+Uganda	UG / UGA 	256 
+Ucrânia	UA / UKR 	380 
+Uruguai	UY / URY 	598 
+Estados Unidos (EUA)	US / USA 	1 
+Uzbequistão	UZ / UZB 	998 
+Vanuatu	VU / VUT 	678 
+Vaticano	VA / VAT 	39 
+Venezuela	VE / VEN 	58 
+Vietnã (Vietname)	VN / VNM 	84 
+Wallis e Futuna	WF / WLF 	681 
+West Bank	/  	970 
+Western Sahara	EH / ESH 	 
+Iémen (Iémen, Yemen)	YE / YEM 	967 
+Zimbabwe(Zimbabué)	ZW / ZWE 	263 
+Zâmbia	ZM / ZMB 	260 

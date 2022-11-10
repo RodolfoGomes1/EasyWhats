@@ -1,0 +1,118 @@
+body{
+  background-image: linear-gradient(to bottom right, #acacac, #ffffff, #acacac);
+}
+.container_{
+
+  /*  margin-top: 25%;*/
+    margin-bottom: auto;
+    
+}
+
+.outracoisa {
+    width: 100%;
+    height: 665px;
+    background-image: linear-gradient(to bottom right, #acacac, #ffffff, #acacac);
+}
+
+
+.div2 {
+   
+			border-radius: 10px;
+			
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 300;
+			padding: 6px 12px;
+      box-shadow: 0px 0px 15px #adadad;
+			text-decoration: none;
+          /*  border: 3px solid rgb(234, 238, 240);*/
+            background-color: #adadad;
+            width: 348px;
+            margin-left: auto;
+            margin-top: 3%;
+            margin-right: auto;
+        }
+        
+@media(min-width: 900px) {
+    .div2 {
+         width: 40%;
+    }
+    
+}
+
+.lbl_form{
+    font-family: 'Comic Neue', cursive;
+    font-size: 22px;
+    color : #ffffff;
+    font-weight: bold;
+}
+
+.lbl_titulo{
+
+    font-family: 'Coming Soon', cursive;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    color : #322938;
+    font-weight: bold;
+
+
+}
+
+.btn{
+
+    font-family: 'Comic Neue', cursive;
+    font-size: 20px;
+    border-radius: 10px;
+    color : #574b45;
+    border: 3px solid;
+    border-color: #574b45;
+    width: 120px;
+    transition: 700ms linear;
+    font-weight: bold;
+  }
+  .btn:hover {
+    /*opacity: 0.5;*/
+    font-weight: bold;
+    box-shadow: 0px 0px 8px #2b222c;
+    background-color:#abdb25 ;
+    color :  #2b222c;
+    border-color:  #2b222c;
+    transition: 600ms linear;
+   
+  }
+
+  .slt_form{
+    background-color:#ffffff ;
+    font-family: 'Comic Neue', cursive;
+    border-radius: 8px;
+    border-color:  #2b222c;
+    color :  #2b222c;
+    font-size: 20px;
+    text-align: center;
+    width: 300px;
+    height: 30px;
+    box-shadow: 0px 0px 2px #2b222c;
+
+
+  }
+
+  .Txt_form{
+    background-color:#ffffff ;
+    font-family: 'Comic Neue', cursive;
+    border-radius: 8px;
+    border-color:  #2b222c;
+    color :  #2b222c;
+    font-size: 20px;
+    text-align: center;
+    width: 300px;
+    height: 30px;
+    box-shadow: 0px 0px 2px #2b222c;
+
+  }
+
+  input:focus{
+    outline: none;
+    box-shadow: 0px 0px 8px #2b222c;
+    /*border-color:red;*/
+}

@@ -1,0 +1,246 @@
+93	Afeganistão
+27	África do Sul
+355	Albânia
+49	Alemanha
+376	Andorra
+244	Angola
+1	Anguila
+1	Antígua e Barbuda
+966	Arábia Saudita
+213	Argélia
+54	Argentina
+374	Armênia
+297	Aruba
+247	Ascensão
+61	Austrália
+43	Áustria
+994	Azerbaijão
+1	Bahamas
+880	Bangladexe
+1	Barbados
+973	Barém
+32	Bélgica
+501	Belize
+229	Benim
+1	Bermudas
+375	Bielorrússia
+591	Bolívia
+599	Bonaire
+387	Bósnia e Herzegovina
+267	Botsuana
+55	Brasil
+673	Brunei
+359	Bulgária
+226	Burquina Fasso
+257	Burundi
+975	Butão
+238	Cabo Verde
+237	Camarões
+855	Camboja
+1	Canadá
+974	Catar
+7	Cazaquistão
+235	Chade
+56	Chile
+86	China
+357	Chipre
+57	Colômbia
+269	Comores
+242	Congo-Brazavile
+243	Congo-Quinxassa
+850	Coreia do Norte
+82	Coreia do Sul
+225	Costa do Marfim
+506	Costa Rica
+385	Croácia
+53	Cuba
+599	Curaçao
+45	Dinamarca
+253	Djibuti
+1	Dominica
+20	Egipto
+503	El Salvador
+971	Emirados Árabes Unidos
+593	Equador
+291	Eritreia
+421	Eslováquia
+386	Eslovénia
+34	Espanha
+268	Essuatíni
+691	Estados Federados da Micronésia
+1	Estados Unidos
+372	Estónia
+251	Etiópia
+679	Fiji
+63	Filipinas
+358	Finlândia
+33	França
+241	Gabão
+220	Gâmbia
+233	Gana
+995	Geórgia
+350	Gibraltar
+1	Granada
+30	Grécia
+299	Groenlândia
+590	Guadalupe
+1	Guam
+502	Guatemala
+592	Guiana
+594	Guiana Francesa
+224	Guiné
+240	Guiné Equatorial
+245	Guiné-Bissau
+509	Haiti
+504	Honduras
+852	Hong Kong
+36	Hungria
+967	Iêmen
+61	Ilha Christmas
+672	Ilha Norfolque
+1	Ilhas Caimã
+61	Ilhas Cocos
+682	Ilhas Cook
+298	Ilhas Féroe
+500	Ilhas Geórgia do Sul e Sandwich do Sul
+500	Ilhas Malvinas
+1	Ilhas Marianas do Norte
+692	Ilhas Marshall
+64	Ilhas Pitcairn
+677	Ilhas Salomão
+1	Ilhas Virgens Americanas
+1	Ilhas Virgens Britânicas
+91	Índia
+62	Indonésia
+98	Irã
+964	Iraque
+353	Irlanda
+354	Islândia
+972	Israel
+39	Itália
+1	Jamaica
+81	Japão
+962	Jordânia
+383	Kosovo
+965	Kuwait
+856	Laos
+266	Lesoto
+371	Letônia
+961	Líbano
+231	Libéria
+218	Líbia
+423	Liechtenstein
+370	Lituânia
+352	Luxemburgo
+853	Macau
+389	Macedônia do Norte
+261	Madagascar
+262	Maiote
+60	Malásia
+265	Maláui
+960	Maldivas
+223	Mali
+356	Malta
+212	Marrocos
+596	Martinica
+230	Maurícia
+222	Mauritânia
+52	México
+95	Mianmar
+258	Moçambique
+373	Moldávia
+377	Mônaco
+976	Mongólia
+1	Monserrate
+382	Montenegro
+264	Namíbia
+674	Nauru
+977	Nepal
+505	Nicarágua
+227	Níger
+234	Nigéria
+683	Niue
+47	Noruega
+687	Nova Caledônia
+64	Nova Zelândia
+968	Omã
+Código	País
+31	Países Baixos
+680	Palau
+970	Palestina
+507	Panamá
+675	Papua-Nova Guiné
+92	Paquistão
+595	Paraguai
+51	Peru
+689	Polinésia Francesa
+48	Polônia
+1	Porto Rico
+351	Portugal
+254	Quênia
+996	Quirguistão
+686	Quiribáti
+44	Reino Unido
+236	República Centro-Africana
+1	República Dominicana
+262	Reunião
+40	Romênia
+250	Ruanda
+7	Rússia
+212	Saara Ocidental
+599	Saba
+685	Samoa
+1	Samoa Americana
+290	Santa Helena
+1	Santa Lúcia
+599	Santo Eustáquio
+590	São Bartolomeu
+1	São Cristóvão e Neves
+378	São Marinho
+1	São Martinho
+590	São Martinho
+508	São Pedro e Miquelão
+239	São Tomé e Príncipe
+1	São Vicente e Granadinas
+248	Seicheles
+221	Senegal
+94	Seri Lanca
+232	Serra Leoa
+381	Sérvia
+65	Singapura
+963	Síria
+252	Somália
+249	Sudão
+211	Sudão do Sul
+46	Suécia
+41	Suíça
+597	Suriname
+66	Tailândia
+886	Taiwan
+992	Tajiquistão
+255	Tanzânia
+420	Tchéquia
+672	Território Antártico Australiano
+246	Território Britânico do Oceano Índico
+670	Timor-Leste
+228	Togo
+676	Tonga
+690	Toquelau
+1	Trindade e Tobago
+290	Tristão da Cunha
+216	Tunísia
+1	Turcas e Caicos
+993	Turcomenistão
+90	Turquia
+688	Tuvalu
+380	Ucrânia
+256	Uganda
+598	Uruguai
+998	Uzbequistão
+678	Vanuatu
+379	Vaticano
+58	Venezuela
+84	Vietnã
+681	Wallis e Futuna
+260	Zâmbia
+263	Zimbábue
